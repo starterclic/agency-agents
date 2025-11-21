@@ -34,10 +34,10 @@
 
 ### Repository Statistics
 
-- **Total Agents**: 51 specialized agents
+- **Total Agents**: 52 specialized agents
 - **Divisions**: 9 distinct categories
-- **Total Files**: 53 markdown files (51 agents + 2 documentation files)
-- **Lines of Content**: 10,000+ lines of personality, process, and code
+- **Total Files**: 54 markdown files (52 agents + 2 documentation files)
+- **Lines of Content**: 15,000+ lines of personality, process, and code
 - **License**: MIT (free to use, modify, and distribute)
 
 ### Primary Use Cases
@@ -125,10 +125,11 @@ agency-agents/
 │   ├── visionos-spatial-engineer.md
 │   └── terminal-integration-specialist.md
 │
-└── specialized/                   # 3 Specialized agents
+└── specialized/                   # 4 Specialized agents
     ├── agents-orchestrator.md
     ├── data-analytics-reporter.md
-    └── lsp-index-engineer.md
+    ├── lsp-index-engineer.md
+    └── nas-security-architect.md
 ```
 
 ### Division Breakdown
@@ -143,7 +144,7 @@ agency-agents/
 | **Testing** | 7 | QA, performance, reality checking, evidence collection |
 | **Support** | 6 | Operations, analytics, finance, legal, infrastructure |
 | **Spatial Computing** | 6 | AR/VR/XR development, immersive experiences |
-| **Specialized** | 3 | Multi-agent orchestration, data analytics, LSP engineering |
+| **Specialized** | 4 | Multi-agent orchestration, data analytics, LSP engineering, NAS deployment |
 
 ---
 
